@@ -1,0 +1,55 @@
+####################### EXECUTE M3 #########################
+RankingWise method
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring: rankingWiseMeasures
+Parameters used for beam searches except for timer:
+BeamWidth: Infinite
+BeamDepth: Infinite
+....................................................................................
+....................................................................................
+............................Timing..................................................
+List of all descriptors used for the beam with timer : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+-------------**Beam search with timer** 1 secondes-------------------
+*********************************
+Groups found:
+[[size:11 ,descriptors: {2=171}, score: 0.0769614514852823], [size:12 ,descriptors: {2=170}, score: 0.07602725653999642], [size:17 ,descriptors: {0=1, 1=5}, score: 0.06705294223235553], [size:198 ,descriptors: {0=1, 1=0}, score: 0.060286372675457556], [size:315 ,descriptors: {1=0}, score: 0.04842249560683324], [size:81 ,descriptors: {1=5}, score: 0.04386027360851518], [size:64 ,descriptors: {0=0, 1=5}, score: 0.03297192336478126], [size:117 ,descriptors: {0=0, 1=0}, score: 0.03071889160300384], [size:356 ,descriptors: {0=1, 1=3}, score: 0.03040388750665685], [size:102 ,descriptors: {0=1, 1=4}, score: 0.03010134192339469]]
+Mean score of the resulted list: 0.04968068365462769
+*********************************
+-------------**Beam search with timer** 5 secondes-------------------
+*********************************
+Groups found:
+[[size:12 ,descriptors: {2=194}, score: 0.17136466331544153], [size:15 ,descriptors: {1=1, 2=215}, score: 0.16342567669244798], [size:11 ,descriptors: {0=0, 2=203}, score: 0.1608797343239137], [size:10 ,descriptors: {1=2, 2=219}, score: 0.15482643438554972], [size:12 ,descriptors: {1=2, 2=207}, score: 0.1341563697915111], [size:12 ,descriptors: {0=1, 2=206}, score: 0.1318233668942736], [size:10 ,descriptors: {0=1, 2=183}, score: 0.1281581932586962], [size:12 ,descriptors: {0=1, 2=192}, score: 0.12363771650494611], [size:11 ,descriptors: {1=1, 2=219}, score: 0.12324011694549593], [size:10 ,descriptors: {1=2, 2=216}, score: 0.11881321796712907]]
+Mean score of the resulted list: 0.1410325490079405
+*********************************
+-------------**Beam search with timer** 1 minutes-------------------
+*********************************
+Groups found:
+[[size:10 ,descriptors: {1=4, 3=11}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.2724507654195666], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16}, score: 0.2503333698405207], [size:11 ,descriptors: {0=0, 2=269}, score: 0.2193910040857467], [size:12 ,descriptors: {4=6, 1=5}, score: 0.19520962946485473], [size:13 ,descriptors: {0=0, 1=3, 4=4}, score: 0.19144319756392977], [size:10 ,descriptors: {4=3, 2=305}, score: 0.19018850780892232], [size:10 ,descriptors: {0=0, 1=5, 4=6}, score: 0.18373432119866698], [size:13 ,descriptors: {0=1, 3=32}, score: 0.18358165599906762]]
+Mean score of the resulted list: 0.22091165866413626
+*********************************
+-------------**Beam search with timer** 5 minutes-------------------
+*********************************
+Groups found:
+[[size:10 ,descriptors: {1=4, 3=11}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0}, score: 0.2503333698405207]]
+Mean score of the resulted list: 0.2591803280721391
+*********************************
+-------------**Beam search with timer** 10 minutes-------------------
+*********************************
+Groups found:
+[[size:10 ,descriptors: {1=4, 3=11}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {0=1, 1=3, 3=16, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3, 5=0, 7=3, 8=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0, 7=3, 8=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16}, score: 0.2503333698405207]]
+Mean score of the resulted list: 0.2591803280721391
+*********************************
+-------------**Beam search with timer** 15 minutes-------------------
+*********************************
+Groups found:
+[[size:10 ,descriptors: {1=4, 3=11}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0, 7=3, 8=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 4=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 5=0}, score: 0.2503333698405207]]
+Mean score of the resulted list: 0.2591803280721391
+*********************************
+-------------**Beam search with timer** 30 minutes-------------------
+*********************************
+Groups found:
+[[size:10 ,descriptors: {1=4, 3=11}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 4=3, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {1=4, 3=11, 5=0}, score: 0.2724507654195666], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0, 7=3, 8=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 7=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 4=3}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 1=3, 3=16, 4=3, 5=0}, score: 0.2503333698405207], [size:10 ,descriptors: {0=1, 8=0, 1=3, 3=16, 5=0}, score: 0.2503333698405207]]
+Mean score of the resulted list: 0.2591803280721391
+*********************************
+####################### END #########################

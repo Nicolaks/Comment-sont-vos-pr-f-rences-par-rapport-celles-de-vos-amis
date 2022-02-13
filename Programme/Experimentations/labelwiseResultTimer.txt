@@ -1,0 +1,76 @@
+####################### EXECUTE M1 #########################
+LabelWise method
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+Parameters used for beam searches except for timer:
+BeamWidth: 4
+BeamDepth: 4
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06799106425520678
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [9, 7, 6, 1]
+*********************************
+Groups found:
+[[size:123 ,descriptors: {9=1, 1=2, 6=14, 7=3}, score: 0.058696311614983544], [size:262 ,descriptors: {9=1, 6=14, 7=3}, score: 0.05719529686317902], [size:11 ,descriptors: {9=1, 6=6, 7=1}, score: 0.050447817633669734], [size:110 ,descriptors: {9=0, 7=2}, score: 0.04766036180383786]]
+Mean score of the resulted list: 0.053499946978917544
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.05864444814433079
+*********************************
+....................................................................................
+....................................................................................
+............................Timing..................................................
+List of all descriptors used for the beam with timer : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+-------------**Beam search with timer** 1 secondes-------------------
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836], [size:542 ,descriptors: {0=0, 1=1}, score: 0.04186630714521954], [size:356 ,descriptors: {0=1, 1=3}, score: 0.04074155283124495], [size:830 ,descriptors: {0=0, 1=2}, score: 0.03960668572015261], [size:81 ,descriptors: {1=5}, score: 0.03551432336604694], [size:970 ,descriptors: {1=3}, score: 0.03270106376150508]]
+Mean score of the resulted list: 0.05082396338043541
+*********************************
+-------------**Beam search with timer** 5 secondes-------------------
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:12 ,descriptors: {2=194}, score: 0.04809258060588278], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836], [size:542 ,descriptors: {0=0, 1=1}, score: 0.04186630714521954], [size:15 ,descriptors: {1=1, 2=215}, score: 0.04077439915764138], [size:356 ,descriptors: {0=1, 1=3}, score: 0.04074155283124495], [size:21 ,descriptors: {2=192}, score: 0.03968997563737269]]
+Mean score of the resulted list: 0.05289745163575462
+*********************************
+-------------**Beam search with timer** 1 minutes-------------------
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:898 ,descriptors: {0=0, 4=3}, score: 0.056005711928867066], [size:10 ,descriptors: {1=4, 3=11}, score: 0.0544706291500291], [size:10 ,descriptors: {1=4, 3=11, 4=3}, score: 0.0544706291500291], [size:278 ,descriptors: {3=29}, score: 0.05445098854312694], [size:278 ,descriptors: {4=6, 3=29}, score: 0.05445098854312694], [size:21 ,descriptors: {0=0, 1=2, 3=8}, score: 0.054117779977695735]]
+Mean score of the resulted list: 0.0599930984313702
+*********************************
+-------------**Beam search with timer** 5 minutes-------------------
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:108 ,descriptors: {1=0, 5=1}, score: 0.061234786840548464], [size:1128 ,descriptors: {0=0, 7=3}, score: 0.05943818577455249], [size:29 ,descriptors: {0=1, 5=1, 6=30}, score: 0.05777019975850812], [size:73 ,descriptors: {0=1, 1=0, 5=1}, score: 0.05624117141748524], [size:898 ,descriptors: {0=0, 4=3, 5=0}, score: 0.056005711928867066], [size:898 ,descriptors: {0=0, 4=3}, score: 0.056005711928867066]]
+Mean score of the resulted list: 0.06186600246696555
+*********************************
+-------------**Beam search with timer** 10 minutes-------------------
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:108 ,descriptors: {1=0, 5=1}, score: 0.061234786840548464], [size:1641 ,descriptors: {0=0, 8=0}, score: 0.061040288380680076], [size:1128 ,descriptors: {0=0, 7=3}, score: 0.05943818577455249], [size:1128 ,descriptors: {0=0, 8=0, 7=3}, score: 0.05943818577455249], [size:152 ,descriptors: {0=0, 8=0, 5=1}, score: 0.05934721987546989], [size:29 ,descriptors: {0=1, 5=1, 6=30}, score: 0.05777019975850812]]
+Mean score of the resulted list: 0.06302331234251388
+*********************************
+-------------**Beam search with timer** 15 minutes-------------------
+*********************************
+Groups found:
+[[size:1704 ,descriptors: {0=1, 9=0}, score: 0.08331654216171022], [size:1128 ,descriptors: {0=1, 9=0, 5=0}, score: 0.07092200730139815], [size:1128 ,descriptors: {0=1, 8=0, 9=0}, score: 0.07092200730139815], [size:1128 ,descriptors: {0=1, 8=0, 9=0, 5=0}, score: 0.07092200730139815], [size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:277 ,descriptors: {1=0, 9=0}, score: 0.06367754488219397], [size:172 ,descriptors: {0=1, 1=0, 9=0}, score: 0.06157096320771327]]
+Mean score of the resulted list: 0.0693295329176639
+*********************************
+-------------**Beam search with timer** 30 minutes-------------------
+*********************************
+Groups found:
+[[size:1704 ,descriptors: {0=1, 9=0}, score: 0.08331654216171022], [size:1128 ,descriptors: {0=1, 9=0, 5=0}, score: 0.07092200730139815], [size:1128 ,descriptors: {0=1, 8=0, 9=0}, score: 0.07092200730139815], [size:1128 ,descriptors: {0=1, 8=0, 9=0, 5=0}, score: 0.07092200730139815], [size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:277 ,descriptors: {1=0, 9=0}, score: 0.06367754488219397], [size:172 ,descriptors: {0=1, 1=0, 9=0}, score: 0.06157096320771327]]
+Mean score of the resulted list: 0.0693295329176639
+*********************************
+####################### END #########################

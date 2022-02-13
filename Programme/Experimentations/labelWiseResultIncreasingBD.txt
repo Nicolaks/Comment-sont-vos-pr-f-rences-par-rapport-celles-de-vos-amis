@@ -1,0 +1,777 @@
+####################### EXECUTE M1 #########################
+LabelWise method
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 1
+BeamDepth: 1
+-------------Beam search with 1 firsts-------------------
+List of k first descriptors generated: [0]
+Execution Time:		0.1092678 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 randoms-------------------
+List of k random descriptors generated: [9]
+Execution Time:		0.1184833 secondes
+*********************************
+Groups found:
+[[size:1792 ,descriptors: {9=1}, score: 0.041120031989982014]]
+Mean score of the resulted list: 0.041120031989982014
+*********************************
+-------------Beam search with 1 bests -------------------
+List of k best descriptors generated: [1]
+Execution Time:		0.2703899 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06916416657328979
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 1
+BeamDepth: 2
+-------------Beam search with 1 firsts-------------------
+List of k first descriptors generated: [0]
+Execution Time:		0.1092145 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 randoms-------------------
+List of k random descriptors generated: [8]
+Execution Time:		0.1157294 secondes
+*********************************
+Groups found:
+[[size:1552 ,descriptors: {8=1}, score: 0.03383004862087434]]
+Mean score of the resulted list: 0.03383004862087434
+*********************************
+-------------Beam search with 1 bests -------------------
+List of k best descriptors generated: [1]
+Execution Time:		0.2928879 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06916416657328979
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 1
+BeamDepth: 3
+-------------Beam search with 1 firsts-------------------
+List of k first descriptors generated: [0]
+Execution Time:		0.1129953 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 randoms-------------------
+List of k random descriptors generated: [0]
+Execution Time:		0.1145984 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 bests -------------------
+List of k best descriptors generated: [1]
+Execution Time:		0.2801721 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06916416657328979
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 1
+BeamDepth: 4
+-------------Beam search with 1 firsts-------------------
+List of k first descriptors generated: [0]
+Execution Time:		0.1106625 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 randoms-------------------
+List of k random descriptors generated: [4]
+Execution Time:		0.4614298 secondes
+*********************************
+Groups found:
+[[size:196 ,descriptors: {4=2}, score: 0.04229320626294488]]
+Mean score of the resulted list: 0.04229320626294488
+*********************************
+-------------Beam search with 1 bests -------------------
+List of k best descriptors generated: [1]
+Execution Time:		0.2828986 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06916416657328979
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 1
+BeamDepth: 5
+-------------Beam search with 1 firsts-------------------
+List of k first descriptors generated: [0]
+Execution Time:		0.1142187 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06802011215258866
+*********************************
+-------------Beam search with 1 randoms-------------------
+List of k random descriptors generated: [6]
+Execution Time:		1.8105021 secondes
+*********************************
+Groups found:
+[[size:547 ,descriptors: {6=14}, score: 0.04646623523790843]]
+Mean score of the resulted list: 0.04646623523790843
+*********************************
+-------------Beam search with 1 bests -------------------
+List of k best descriptors generated: [1]
+Execution Time:		0.2687505 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06916416657328979
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 2
+BeamDepth: 1
+-------------Beam search with 2 firsts-------------------
+List of k first descriptors generated: [0, 1]
+Execution Time:		0.1092522 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06633413665493822
+*********************************
+-------------Beam search with 2 randoms-------------------
+List of k random descriptors generated: [9, 1]
+Execution Time:		0.1200345 secondes
+*********************************
+Groups found:
+[[size:1792 ,descriptors: {9=1}, score: 0.041120031989982014], [size:3208 ,descriptors: {9=0}, score: 0.03073302199065858]]
+Mean score of the resulted list: 0.0359265269903203
+*********************************
+-------------Beam search with 2 bests -------------------
+List of k best descriptors generated: [1, 0]
+Execution Time:		0.2706106 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:81 ,descriptors: {1=5}, score: 0.03551432336604694]]
+Mean score of the resulted list: 0.052339244969668366
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 2
+BeamDepth: 2
+-------------Beam search with 2 firsts-------------------
+List of k first descriptors generated: [0, 1]
+Execution Time:		0.6056175 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06907596464512478
+*********************************
+-------------Beam search with 2 randoms-------------------
+List of k random descriptors generated: [2, 0]
+Execution Time:		8.6322028 secondes
+*********************************
+Groups found:
+[[size:12 ,descriptors: {2=194}, score: 0.04809258060588278], [size:36 ,descriptors: {2=246}, score: 0.0477744611272592]]
+Mean score of the resulted list: 0.04793352086657099
+*********************************
+-------------Beam search with 2 bests -------------------
+List of k best descriptors generated: [1, 0]
+Execution Time:		0.4280348 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06964799185547534
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 2
+BeamDepth: 3
+-------------Beam search with 2 firsts-------------------
+List of k first descriptors generated: [0, 1]
+Execution Time:		0.6226323 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06907596464512478
+*********************************
+-------------Beam search with 2 randoms-------------------
+List of k random descriptors generated: [5, 9]
+Execution Time:		0.3040723 secondes
+*********************************
+Groups found:
+[[size:668 ,descriptors: {5=1, 9=1}, score: 0.0365873062297527], [size:1074 ,descriptors: {5=1, 9=0}, score: 0.03267712725761026]]
+Mean score of the resulted list: 0.034632216743681485
+*********************************
+-------------Beam search with 2 bests -------------------
+List of k best descriptors generated: [1, 0]
+Execution Time:		0.4418615 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06964799185547534
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 2
+BeamDepth: 4
+-------------Beam search with 2 firsts-------------------
+List of k first descriptors generated: [0, 1]
+Execution Time:		0.6045586 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06907596464512478
+*********************************
+-------------Beam search with 2 randoms-------------------
+List of k random descriptors generated: [1, 6]
+Execution Time:		0.7324881 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:19 ,descriptors: {1=0, 6=29}, score: 0.04261274292731546]]
+Mean score of the resulted list: 0.05588845475030263
+*********************************
+-------------Beam search with 2 bests -------------------
+List of k best descriptors generated: [1, 0]
+Execution Time:		0.4331387 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06964799185547534
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 2
+BeamDepth: 5
+-------------Beam search with 2 firsts-------------------
+List of k first descriptors generated: [0, 1]
+Execution Time:		0.6354233 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06907596464512478
+*********************************
+-------------Beam search with 2 randoms-------------------
+List of k random descriptors generated: [4, 2]
+Execution Time:		0.545081 secondes
+*********************************
+Groups found:
+[[size:196 ,descriptors: {4=2}, score: 0.04229320626294488], [size:135 ,descriptors: {4=8}, score: 0.04114464069326378]]
+Mean score of the resulted list: 0.04171892347810433
+*********************************
+-------------Beam search with 2 bests -------------------
+List of k best descriptors generated: [1, 0]
+Execution Time:		0.4376871 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979]]
+Mean score of the resulted list: 0.06964799185547534
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 3
+BeamDepth: 1
+-------------Beam search with 3 firsts-------------------
+List of k first descriptors generated: [0, 1, 2]
+Execution Time:		0.1114781 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.04422275776995881
+*********************************
+-------------Beam search with 3 randoms-------------------
+List of k random descriptors generated: [8, 2, 1]
+Execution Time:		0.1269118 secondes
+*********************************
+Groups found:
+[[size:1552 ,descriptors: {8=1}, score: 0.03383004862087434], [size:3448 ,descriptors: {8=0}, score: 0.022696811554850174], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.018842286725241505
+*********************************
+-------------Beam search with 3 bests -------------------
+List of k best descriptors generated: [1, 0, 3]
+Execution Time:		0.2751071 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:81 ,descriptors: {1=5}, score: 0.03551432336604694], [size:970 ,descriptors: {1=3}, score: 0.03270106376150508]]
+Mean score of the resulted list: 0.045793184566947275
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 3
+BeamDepth: 2
+-------------Beam search with 3 firsts-------------------
+List of k first descriptors generated: [0, 1, 2]
+Execution Time:		0.8771446 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06910536528784644
+*********************************
+-------------Beam search with 3 randoms-------------------
+List of k random descriptors generated: [4, 9, 6]
+Execution Time:		0.7046019 secondes
+*********************************
+Groups found:
+[[size:110 ,descriptors: {4=2, 9=0}, score: 0.04766036180383786], [size:196 ,descriptors: {4=2}, score: 0.04229320626294488], [size:135 ,descriptors: {4=8}, score: 0.04114464069326378]]
+Mean score of the resulted list: 0.043699402920015507
+*********************************
+-------------Beam search with 3 bests -------------------
+List of k best descriptors generated: [1, 0, 3]
+Execution Time:		0.5144961 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06171380922343617
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 3
+BeamDepth: 3
+-------------Beam search with 3 firsts-------------------
+List of k first descriptors generated: [0, 1, 2]
+Execution Time:		4.6260641 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06910536528784644
+*********************************
+-------------Beam search with 3 randoms-------------------
+List of k random descriptors generated: [5, 2, 7]
+Execution Time:		16.3384585 secondes
+*********************************
+Groups found:
+[[size:12 ,descriptors: {2=194}, score: 0.04809258060588278], [size:36 ,descriptors: {2=246}, score: 0.0477744611272592], [size:18 ,descriptors: {2=232}, score: 0.04630128096140177]]
+Mean score of the resulted list: 0.04738944089818125
+*********************************
+-------------Beam search with 3 bests -------------------
+List of k best descriptors generated: [1, 0, 3]
+Execution Time:		1.824811 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06171380922343617
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 3
+BeamDepth: 4
+-------------Beam search with 3 firsts-------------------
+List of k first descriptors generated: [0, 1, 2]
+Execution Time:		4.6427941 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06910536528784644
+*********************************
+-------------Beam search with 3 randoms-------------------
+List of k random descriptors generated: [4, 3, 5]
+Execution Time:		0.9395219 secondes
+*********************************
+Groups found:
+[[size:196 ,descriptors: {4=2}, score: 0.04229320626294488], [size:196 ,descriptors: {4=2, 5=0}, score: 0.04229320626294488], [size:135 ,descriptors: {4=8}, score: 0.04114464069326378]]
+Mean score of the resulted list: 0.04191035107305118
+*********************************
+-------------Beam search with 3 bests -------------------
+List of k best descriptors generated: [1, 0, 3]
+Execution Time:		1.832505 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06171380922343617
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 3
+BeamDepth: 5
+-------------Beam search with 3 firsts-------------------
+List of k first descriptors generated: [0, 1, 2]
+Execution Time:		4.9402292 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866]]
+Mean score of the resulted list: 0.06910536528784644
+*********************************
+-------------Beam search with 3 randoms-------------------
+List of k random descriptors generated: [8, 3, 9]
+Execution Time:		4.5113679 secondes
+*********************************
+Groups found:
+[[size:278 ,descriptors: {3=29}, score: 0.05445098854312694], [size:98 ,descriptors: {9=1, 3=29}, score: 0.045707764952791025], [size:15 ,descriptors: {8=1, 9=1, 3=14}, score: 0.04318896155269307]]
+Mean score of the resulted list: 0.047782571682870346
+*********************************
+-------------Beam search with 3 bests -------------------
+List of k best descriptors generated: [1, 0, 3]
+Execution Time:		1.812714 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06171380922343617
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 4
+BeamDepth: 1
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+Execution Time:		0.134887 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.04422275776995881
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [5, 6, 3, 1]
+Execution Time:		0.1200518 secondes
+*********************************
+Groups found:
+[[size:1742 ,descriptors: {5=1}, score: 0.02649311214343789], [size:3258 ,descriptors: {5=0}, score: 0.019372314597558785], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.015288475580332224
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+Execution Time:		0.2972475 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:81 ,descriptors: {1=5}, score: 0.03551432336604694], [size:970 ,descriptors: {1=3}, score: 0.03270106376150508], [size:308 ,descriptors: {1=4}, score: 0.020123097765709724]]
+Mean score of the resulted list: 0.039375662866637885
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 4
+BeamDepth: 2
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+Execution Time:		0.9277528 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06799106425520678
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [5, 6, 0, 3]
+Execution Time:		4.6706646 secondes
+*********************************
+Groups found:
+[[size:547 ,descriptors: {6=14}, score: 0.04646623523790843], [size:64 ,descriptors: {5=1, 6=14}, score: 0.04406248399716022], [size:36 ,descriptors: {5=0, 6=20}, score: 0.042771947109706804], [size:483 ,descriptors: {5=0, 6=14}, score: 0.04198774578206376]]
+Mean score of the resulted list: 0.0438221030317098
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+Execution Time:		0.6479268 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836], [size:356 ,descriptors: {0=1, 1=3}, score: 0.04074155283124495]]
+Mean score of the resulted list: 0.05647074512538836
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 4
+BeamDepth: 3
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+Execution Time:		10.8595529 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06799106425520678
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [5, 0, 1, 3]
+Execution Time:		1.4532154 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:1711 ,descriptors: {0=1, 5=0}, score: 0.05447517967863242]]
+Mean score of the resulted list: 0.06431881753154244
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+Execution Time:		2.6758429 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.05864444814433079
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 4
+BeamDepth: 4
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+Execution Time:		18.8402477 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06799106425520678
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [6, 5, 9, 1]
+Execution Time:		3.8394692 secondes
+*********************************
+Groups found:
+[[size:123 ,descriptors: {9=1, 1=2, 6=14}, score: 0.058696311614983544], [size:262 ,descriptors: {9=1, 6=14}, score: 0.05719529686317902], [size:547 ,descriptors: {6=14}, score: 0.04646623523790843], [size:29 ,descriptors: {9=0, 5=0, 6=20}, score: 0.04518287874695535]]
+Mean score of the resulted list: 0.05188518061575659
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+Execution Time:		3.3707707 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.05864444814433079
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 4
+BeamDepth: 5
+-------------Beam search with 4 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3]
+Execution Time:		13.0692275 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778]]
+Mean score of the resulted list: 0.06799106425520678
+*********************************
+-------------Beam search with 4 randoms-------------------
+List of k random descriptors generated: [2, 7, 1, 6]
+Execution Time:		9.944235 secondes
+*********************************
+Groups found:
+[[size:12 ,descriptors: {2=194}, score: 0.04809258060588278], [size:36 ,descriptors: {2=246}, score: 0.0477744611272592], [size:18 ,descriptors: {2=232}, score: 0.04630128096140177], [size:19 ,descriptors: {2=278}, score: 0.04368501140039489]]
+Mean score of the resulted list: 0.046463333523734655
+*********************************
+-------------Beam search with 4 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2]
+Execution Time:		3.1471577 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.05864444814433079
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 5
+BeamDepth: 1
+-------------Beam search with 5 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3, 4]
+Execution Time:		0.1099772 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.04422275776995881
+*********************************
+-------------Beam search with 5 randoms-------------------
+List of k random descriptors generated: [8, 5, 1, 7, 9]
+Execution Time:		0.1089266 secondes
+*********************************
+Groups found:
+[[size:1552 ,descriptors: {8=1}, score: 0.03383004862087434], [size:3448 ,descriptors: {8=0}, score: 0.022696811554850174], [size:5000 ,descriptors: {}, score: 0.0]]
+Mean score of the resulted list: 0.018842286725241505
+*********************************
+-------------Beam search with 5 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2, 6]
+Execution Time:		0.265155 secondes
+*********************************
+Groups found:
+[[size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:81 ,descriptors: {1=5}, score: 0.03551432336604694], [size:970 ,descriptors: {1=3}, score: 0.03270106376150508], [size:308 ,descriptors: {1=4}, score: 0.020123097765709724], [size:1396 ,descriptors: {1=1}, score: 0.01823360566800106]]
+Mean score of the resulted list: 0.03514725142691052
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 5
+BeamDepth: 2
+-------------Beam search with 5 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3, 4]
+Execution Time:		0.8519861 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06356194019603699
+*********************************
+-------------Beam search with 5 randoms-------------------
+List of k random descriptors generated: [8, 4, 0, 9, 6]
+Execution Time:		1.2976756 secondes
+*********************************
+Groups found:
+[[size:59 ,descriptors: {8=0, 4=7}, score: 0.0453379768196784], [size:186 ,descriptors: {8=0, 4=2}, score: 0.04296943460407116], [size:104 ,descriptors: {8=1, 4=8}, score: 0.042412253613966146], [size:196 ,descriptors: {4=2}, score: 0.04229320626294488], [size:135 ,descriptors: {4=8}, score: 0.04114464069326378]]
+Mean score of the resulted list: 0.042831502398784874
+*********************************
+-------------Beam search with 5 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2, 6]
+Execution Time:		0.6573871 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836], [size:542 ,descriptors: {0=0, 1=1}, score: 0.04186630714521954], [size:356 ,descriptors: {0=1, 1=3}, score: 0.04074155283124495]]
+Mean score of the resulted list: 0.053549857529354594
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 5
+BeamDepth: 3
+-------------Beam search with 5 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3, 4]
+Execution Time:		9.7025184 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.06356194019603699
+*********************************
+-------------Beam search with 5 randoms-------------------
+List of k random descriptors generated: [8, 4, 3, 6, 5]
+Execution Time:		1.9835821 secondes
+*********************************
+Groups found:
+[[size:59 ,descriptors: {8=0, 4=7}, score: 0.0453379768196784], [size:186 ,descriptors: {8=0, 4=2}, score: 0.04296943460407116], [size:104 ,descriptors: {8=1, 4=8}, score: 0.042412253613966146], [size:196 ,descriptors: {4=2}, score: 0.04229320626294488], [size:135 ,descriptors: {4=8}, score: 0.04114464069326378]]
+Mean score of the resulted list: 0.042831502398784874
+*********************************
+-------------Beam search with 5 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2, 6]
+Execution Time:		2.9799456 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:18 ,descriptors: {0=0, 1=1, 3=25}, score: 0.04594464975259784], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.056104488465984204
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 5
+BeamDepth: 4
+-------------Beam search with 5 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3, 4]
+Execution Time:		14.6178071 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:13 ,descriptors: {0=1, 3=32}, score: 0.0529992539221798]]
+Mean score of the resulted list: 0.06499270218860138
+*********************************
+-------------Beam search with 5 randoms-------------------
+List of k random descriptors generated: [0, 7, 5, 3, 2]
+Execution Time:		6.9934464 secondes
+*********************************
+Groups found:
+[[size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:1128 ,descriptors: {0=0, 7=3}, score: 0.05943818577455249], [size:132 ,descriptors: {0=0, 5=1, 7=3}, score: 0.05458236822204835], [size:1711 ,descriptors: {0=1, 5=0}, score: 0.05447517967863242]]
+Mean score of the resulted list: 0.06023280139702194
+*********************************
+-------------Beam search with 5 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2, 6]
+Execution Time:		3.3859844 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:18 ,descriptors: {0=0, 1=1, 3=25}, score: 0.04594464975259784], [size:614 ,descriptors: {0=0, 1=3}, score: 0.045845443959357836]]
+Mean score of the resulted list: 0.056104488465984204
+*********************************
+....................................................................................
+....................................................................................
+Parameters used for beam searches:
+Minimum Frequency: 10
+Type of scoring:labelwiseMeasures
+BeamWidth: 5
+BeamDepth: 5
+-------------Beam search with 5 firsts-------------------
+List of k first descriptors generated: [0, 1, 2, 3, 4]
+Execution Time:		17.6683349 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:2373 ,descriptors: {0=0}, score: 0.06802011215258866], [size:2627 ,descriptors: {0=1}, score: 0.06464816115728778], [size:898 ,descriptors: {0=0, 4=3}, score: 0.056005711928867066]]
+Mean score of the resulted list: 0.06559399378993883
+*********************************
+-------------Beam search with 5 randoms-------------------
+List of k random descriptors generated: [4, 3, 5, 8, 1]
+Execution Time:		2.4237943 secondes
+*********************************
+Groups found:
+[[size:36 ,descriptors: {8=1, 1=1, 4=8, 5=1}, score: 0.04749539490191538], [size:186 ,descriptors: {8=0, 4=2, 5=0}, score: 0.04296943460407116], [size:186 ,descriptors: {4=2, 8=0}, score: 0.04296943460407116], [size:104 ,descriptors: {8=1, 4=8, 5=1}, score: 0.042412253613966146], [size:196 ,descriptors: {4=2, 5=0}, score: 0.04229320626294488]]
+Mean score of the resulted list: 0.04362794479739375
+*********************************
+-------------Beam search with 5 bests -------------------
+List of k best descriptors generated: [1, 0, 3, 2, 6]
+Execution Time:		4.5171803 secondes
+*********************************
+Groups found:
+[[size:198 ,descriptors: {0=1, 1=0}, score: 0.07013181713766088], [size:315 ,descriptors: {1=0}, score: 0.06916416657328979], [size:28 ,descriptors: {0=1, 1=3, 3=26, 6=26}, score: 0.054903538975188106], [size:41 ,descriptors: {0=1, 1=3, 3=26}, score: 0.04943636490701468], [size:18 ,descriptors: {0=0, 1=1, 3=25}, score: 0.04594464975259784]]
+Mean score of the resulted list: 0.057916107469150255
+*********************************
+....................................................................................
